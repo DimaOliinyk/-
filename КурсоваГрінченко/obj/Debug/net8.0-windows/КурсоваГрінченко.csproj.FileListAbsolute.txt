@@ -1,0 +1,16 @@
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\bin\Debug\net8.0-windows\КурсоваГрінченко.exe
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\bin\Debug\net8.0-windows\КурсоваГрінченко.deps.json
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\bin\Debug\net8.0-windows\КурсоваГрінченко.runtimeconfig.json
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\bin\Debug\net8.0-windows\КурсоваГрінченко.dll
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\bin\Debug\net8.0-windows\КурсоваГрінченко.pdb
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.Form1.resources
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.csproj.GenerateResource.cache
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.AssemblyInfoInputs.cache
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.AssemblyInfo.cs
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.csproj.CoreCompileInputs.cache
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.dll
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\refint\КурсоваГрінченко.dll
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.pdb
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\КурсоваГрінченко.genruntimeconfig.cache
+C:\Users\dolii\source\repos\КурсоваГрінченко\КурсоваГрінченко\obj\Debug\net8.0-windows\ref\КурсоваГрінченко.dll
